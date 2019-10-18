@@ -69,4 +69,4 @@
     Still let us, for His golden corn,
     Send up our thanks to God!
 
-[Public Doman Poetry] (http://www.public-domain-poetry.com/john-greenleaf-whittier/corn-song-5819)
+[Public Doman Poetry](http://www.public-domain-poetry.com/john-greenleaf-whittier/corn-song-5819)
