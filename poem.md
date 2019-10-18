@@ -1,8 +1,8 @@
-The Corn-Song
+#The Corn-Song
 
     By John Greenleaf Whittier
     
-    Heap high the farmer�s wintry hoard!
+    *Heap high the farmer's wintry hoard!*
     Heap high the golden corn!
     No richer gift has Autumn poured
     From out her lavish horn!
@@ -22,17 +22,17 @@ The Corn-Song
     While on the hills the sun and showers
     Of changeful April played.
 
-    We dropped the seed o�er hill and plain
+    We dropped the seed o'er hill and plain
     Beneath the sun of May,
     And frightened from our sprouting grain
     The robber crows away.
 
     All through the long, bright days of June
     Its leaves grew green and fair,
-    And waved in hot midsummer�s noon
+    And waved in hot midsummer's noon
     Its soft and yellow hair.
 
-    And now, with autumn�s moonlit eves,
+    And now, with autumn's moonlit eves,
     Its harvest-time has come,
     We pluck away the frosted leaves,
     And bear the treasure home.
@@ -47,7 +47,7 @@ The Corn-Song
     Give us the bowl of samp and milk,
     By homespun beauty poured!
 
-    Where�er the wide old kitchen hearth
+    Where'er the wide old kitchen hearth
     Sends up its smoky curls,
     Who will not thank the kindly earth
     And bless our farmer girls?
@@ -59,10 +59,12 @@ The Corn-Song
 
     Let earth withhold her goodly root,
     Let mildew blight the rye,
-    Give to the worm the orchard�s fruit,
+    Give to the worm the orchard's fruit,
     The wheat-field to the fly:
 
     But let the good old crop adorn
     The hills our fathers trod;
     Still let us, for His golden corn,
     Send up our thanks to God!
+
+from: http://www.public-domain-poetry.com/john-greenleaf-whittier/corn-song-5819
