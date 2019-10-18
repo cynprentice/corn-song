@@ -1,16 +1,18 @@
-#The Corn-Song
+# The Corn-Song
 
-    By John Greenleaf Whittier
+:corn:
+
+  ##  By John Greenleaf Whittier
     
-    *Heap high the farmer's wintry hoard!*
+    Heap high the farmer's wintry hoard!
     Heap high the golden corn!
     No richer gift has Autumn poured
     From out her lavish horn!
 
     Let other lands, exulting, glean
-    The apple from the pine,
-    The orange from its glossy green,
-    The cluster from the vine;
+  -  The apple from the pine,
+  -  The orange from its glossy green,
+  -  The cluster from the vine;
 
     We better love the hardy gift
     Our rugged vales bestow,
@@ -67,4 +69,4 @@
     Still let us, for His golden corn,
     Send up our thanks to God!
 
-from: http://www.public-domain-poetry.com/john-greenleaf-whittier/corn-song-5819
+[Public Doman Poetry] (http://www.public-domain-poetry.com/john-greenleaf-whittier/corn-song-5819)
